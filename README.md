@@ -9,13 +9,33 @@
 <img src="https://komarev.com/ghpvc/?username=morfestboy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="morfestboy" />
 
 </div>
+
+<br>
+
+## 💬 About Me
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/morfestboy)
+- 💬 Ask me about **System design, frontend/backend integration, dev process, or just geeky things**
+- 📫 How to reach me: **morfestboy@gmail.com**
+- ⚡ **Fun fact:** I love spinning up small lab projects to explore things I'm curious about — it's my favorite kind of downtime. When I'm not coding, I'm probably watching anime, playing PS5, or vibing to anime soundtracks. Oh, and I believe in Web3 — especially decentralization, security, and clean UX. That's why I stake EGLD (MultiversX) 🚀
+
 <br>
 
 ## 🚀 What I'm Up To
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="40%" align="center">
+
+**📰 Daily.dev Profile**
+
+<a href="https://app.daily.dev/morfestboy"><img src="https://api.daily.dev/devcards/v2/w4DZPOgbkS01mxCSnFyFP.png?type=default&r=nzw" width="280" alt="Wongsakorn Nawbantad's Dev Card"/></a>
+
+_Stay updated with the latest dev news and articles_
+
+</td>
+<td width="60%">
 
 **🔭 Currently Working On**
 
@@ -42,26 +62,9 @@
 - Edge-case testing strategies
 
 </td>
-<td width="50%" align="center">
-
-**📰 Daily.dev Profile**
-
-<a href="https://app.daily.dev/morfestboy"><img src="https://api.daily.dev/devcards/v2/w4DZPOgbkS01mxCSnFyFP.png?type=default&r=nzw" width="300" alt="Wongsakorn Nawbantad's Dev Card"/></a>
-
-_Stay updated with the latest dev news and articles_
-
-</td>
 </tr>
 </table>
-
-<br>
-
-## 💬 About Me
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/morfestboy)
-- 💬 Ask me about **System design, frontend/backend integration, dev process, or just geeky things**
-- 📫 How to reach me: **morfestboy@gmail.com**
-- ⚡ **Fun fact:** I love spinning up small lab projects to explore things I'm curious about — it's my favorite kind of downtime. When I'm not coding, I'm probably watching anime, playing PS5, or vibing to anime soundtracks. Oh, and I believe in Web3 — especially decentralization, security, and clean UX. That's why I stake EGLD (MultiversX) 🚀
+</div>
 
 <br>
 
@@ -69,9 +72,10 @@ _Stay updated with the latest dev news and articles_
 
 <div align="center">
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/morfestboy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morfestboy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://github.com/morfestboy)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
+[![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/morfestboy)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morfestboy@gmail.com)
 
 </div>
 
@@ -175,3 +179,18 @@ If you like what I do and want to support my open-source contributions, consider
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
+
+<!-- Mobile Responsive CSS -->
+<style>
+@media (max-width: 768px) {
+  table, tr, td {
+    display: block !important;
+    width: 100% !important;
+  }
+  
+  td {
+    text-align: center !important;
+    margin-bottom: 20px;
+  }
+}
+</style>
