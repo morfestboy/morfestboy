@@ -6,30 +6,24 @@
 
 <br>
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=morfestboy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="morfestboy" />
 
 </div>
 
 <br>
 
-<!-- GitHub Stats Cards Section -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morfestboy&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12"/>
 </div>
 
 <br>
 
-<!-- Trophy Section with Better Spacing -->
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=morfestboy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="morfestboy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=morfestboy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="morfestboy" />
 </div>
 
 <br>
-
-<!-- Current Activities Section -->
 
 ## 🚀 What I'm Up To
 
@@ -159,15 +153,8 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morfestboy&theme=tokyonight&hide_border=false" alt="morfestboy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morfestboy&theme=dark&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=ffffff" alt="morfestboy" />
 </div>
-
-<br>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 
@@ -191,28 +178,3 @@ If you like what I do and want to support my open-source contributions, consider
 
 </div>
 ```
-
-## Key Improvements Made:
-
-1. **Profile View Optimization**: Moved the profile view counter to the center and used a more compact badge style to prevent layout issues.
-
-2. **Enhanced GitHub Stats**: Added comprehensive GitHub readme stats cards from anuraghazra/github-readme-stats with a consistent dark theme.
-
-3. **Improved Trophy Section**: Better spacing, themed trophies, and organized in a 2x4 grid layout for better visual balance.
-
-4. **Framework Logos Enhancement**: Replaced individual logos with modern badge-style logos that have consistent styling, white backgrounds, and rounded corners. Organized them by category for better readability.
-
-5. **Better Content Organization**:
-
-   - Used tables for better layout of current activities
-   - Added clear sections with proper headings
-   - Improved spacing throughout
-
-6. **Integrated Buy Me a Coffee**: Moved to a dedicated support section at the bottom with better styling and context.
-
-7. **Added Visual Elements**:
-   - Snake animation for GitHub contributions
-   - Consistent theming throughout
-   - Better use of emojis and formatting
-
-The new layout is more visually appealing, better organized, and provides a professional yet personal touch to your GitHub profile!
