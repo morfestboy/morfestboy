@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title=Wongsakorn's%20GitHub%20Stats"/>
 </div>
 
 <br>
@@ -158,6 +158,16 @@
 
 <br>
 
+## 📰 Daily.dev Card
+
+<div align="center">
+  <a href="https://app.daily.dev/morfestboy">
+    <img src="https://api.daily.dev/devcards/v2/morfestboy.png?type=default&r=abc" width="356" alt="Wongsakorn Nawbantad's Dev Card"/>
+  </a>
+</div>
+
+<br>
+
 ---
 
 <div align="center">
@@ -173,8 +183,6 @@ If you like what I do and want to support my open-source contributions, consider
 <br><br>
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 ```
