@@ -172,9 +172,8 @@ If you like what I do and want to support my open-source contributions, consider
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
 </a>
 
-<br><br>
+<br>
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
-```
