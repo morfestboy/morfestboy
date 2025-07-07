@@ -29,9 +29,6 @@
 - Model-Context-Protocol systems
 - Advanced system design patterns
 
-</td>
-<td width="50%">
-
 **👯 Looking to Collaborate On**
 
 - Open-source tools
@@ -43,6 +40,15 @@
 - Workflow optimization ideas
 - Smart automation solutions
 - Edge-case testing strategies
+
+</td>
+<td width="50%" align="center">
+
+**📰 Daily.dev Profile**
+
+<a href="https://app.daily.dev/morfestboy"><img src="https://api.daily.dev/devcards/v2/w4DZPOgbkS01mxCSnFyFP.png?type=default&r=nzw" width="300" alt="Wongsakorn Nawbantad's Dev Card"/></a>
+
+_Stay updated with the latest dev news and articles_
 
 </td>
 </tr>
@@ -148,14 +154,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title=Wongsakorn's%20GitHub%20Stats"/>
-</div>
-
-<br>
-
-## 📰 Daily.dev Card
-
-<div align="center">
-<a href="https://app.daily.dev/morfestboy"><img src="https://api.daily.dev/devcards/v2/w4DZPOgbkS01mxCSnFyFP.png?type=default&r=nzw" width="356" alt="Wongsakorn Nawbantad's Dev Card"/></a>
 </div>
 
 <br>
