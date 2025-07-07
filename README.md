@@ -36,7 +36,7 @@ _Stay updated with the latest dev news and articles_
 
 </td>
 <td width="60%">
-
+<br>
 **🔭 Currently Working On**
 
 - Personal dev tools & backend services
@@ -55,12 +55,7 @@ _Stay updated with the latest dev news and articles_
 - Productivity boosters
 - Experimental side projects
 
-**🤝 Looking for Help With**
-
-- Workflow optimization ideas
-- Smart automation solutions
-- Edge-case testing strategies
-
+<br>
 </td>
 </tr>
 </table>
@@ -68,13 +63,12 @@ _Stay updated with the latest dev news and articles_
 
 <br>
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://github.com/morfestboy)
-[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
 [![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/morfestboy)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morfestboy@gmail.com)
 
 </div>
@@ -175,22 +169,7 @@ If you like what I do and want to support my open-source contributions, consider
 </a>
 
 <br>
-
+<br>
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
-
-<!-- Mobile Responsive CSS -->
-<style>
-@media (max-width: 768px) {
-  table, tr, td {
-    display: block !important;
-    width: 100% !important;
-  }
-  
-  td {
-    text-align: center !important;
-    margin-bottom: 20px;
-  }
-}
-</style>
