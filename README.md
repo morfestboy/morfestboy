@@ -9,20 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=morfestboy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="morfestboy" />
 
 </div>
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title=Wongsakorn's%20GitHub%20Stats"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=morfestboy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="morfestboy" />
-</div>
-
 <br>
 
 ## 🚀 What I'm Up To
@@ -153,7 +139,16 @@
 ## 📊 GitHub Activity
 
 <div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=morfestboy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="morfestboy" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morfestboy&theme=dark&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=ffffff" alt="morfestboy" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title=Wongsakorn's%20GitHub%20Stats"/>
 </div>
 
 <br>
@@ -161,9 +156,7 @@
 ## 📰 Daily.dev Card
 
 <div align="center">
-  <a href="https://app.daily.dev/morfestboy">
-    <img src="https://api.daily.dev/devcards/v2/morfestboy.png?type=default&r=abc" width="356" alt="Wongsakorn Nawbantad's Dev Card"/>
-  </a>
+<a href="https://app.daily.dev/morfestboy"><img src="https://api.daily.dev/devcards/v2/w4DZPOgbkS01mxCSnFyFP.png?type=default&r=nzw" width="356" alt="Wongsakorn Nawbantad's Dev Card"/></a>
 </div>
 
 <br>
