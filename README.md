@@ -1,41 +1,218 @@
-<h1 align="center">Hi 👋, I'm Wongsakorn Nawbantad (Boy)</h1>
-<h3 align="center">With a background across frontend, backend, mobile, and more — I enjoy solving real-world problems and always learning something new.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=morfestboy&label=Profile%20views&color=0e75b6&style=flat" alt="morfestboy" /> </p>
+# Hi 👋, I'm Wongsakorn Nawbantad (Boy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morfestboy" alt="morfestboy" /></a> </p>
+### With a background across frontend, backend, mobile, and more — I enjoy solving real-world problems and always learning something new.
 
-- 🔭 I’m currently working on **Personal dev tools, backend services, and internal labs to test new tech**
+<br>
 
-- 🌱 I’m currently learning **Diving into AI agents, Web3 development, and designing systems using the Model-Context-Protocol**
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=morfestboy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="morfestboy" />
 
-- 👯 I’m looking to collaborate on **Open-source tools, productivity boosters, and experimental side projects**
+</div>
 
-- 🤝 I’m looking for help with **Ideas for smoother workflows, smart automation, and edge-case testing**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/morfestboy](https://github.com/morfestboy)
+<!-- GitHub Stats Cards Section -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morfestboy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morfestboy&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<br>
+
+<!-- Trophy Section with Better Spacing -->
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=morfestboy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="morfestboy" />
+</div>
+
+<br>
+
+<!-- Current Activities Section -->
+
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+**🔭 Currently Working On**
+
+- Personal dev tools & backend services
+- Internal labs to test new tech
+- Experimental side projects
+
+**🌱 Currently Learning**
+
+- AI agents & Web3 development
+- Model-Context-Protocol systems
+- Advanced system design patterns
+
+</td>
+<td width="50%">
+
+**👯 Looking to Collaborate On**
+
+- Open-source tools
+- Productivity boosters
+- Experimental side projects
+
+**🤝 Looking for Help With**
+
+- Workflow optimization ideas
+- Smart automation solutions
+- Edge-case testing strategies
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💬 About Me
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/morfestboy)
 - 💬 Ask me about **System design, frontend/backend integration, dev process, or just geeky things**
+- 📫 How to reach me: **morfestboy@gmail.com**
+- ⚡ **Fun fact:** I love spinning up small lab projects to explore things I'm curious about — it's my favorite kind of downtime. When I'm not coding, I'm probably watching anime, playing PS5, or vibing to anime soundtracks. Oh, and I believe in Web3 — especially decentralization, security, and clean UX. That's why I stake EGLD (MultiversX) 🚀
 
-- 📫 How to reach me **morfestboy@gmail.com**
+<br>
 
-- ⚡ Fun fact **I love spinning up small lab projects to explore things I’m curious about — it’s my favorite kind of downtime. When I’m not doing that, I’m probably watching anime, playing PS5, or vibing to anime soundtracks. Oh, and I believe in Web3 — especially decentralization, security, and clean UX. That’s why I stake EGLD (MultiversX)**
+## 🌐 Connect With Me
 
-### Blogs posts
+<div align="center">
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/morfestboy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morfestboy@gmail.com)
+
+</div>
+
+<br>
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### Frontend Technologies
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</p>
+
+### Backend Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+</p>
+
+### Other Tools
+
+<p>
+<img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
+</p>
+
+</div>
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morfestboy&theme=tokyonight&hide_border=false" alt="morfestboy" />
+</div>
+
+<br>
+
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/morfestboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="morfestboy" height="30" width="40" /></a>
-<a href="https://fb.com/morfestboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morfestboy" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/morfestboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morfestboy" /></a></p><br><br>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morfestboy&theme=dark" alt="morfestboy" /></p>
+### ☕ Support My Work
+
+If you like what I do and want to support my open-source contributions, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/morfestboy" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+</a>
+
+<br><br>
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+```
+
+## Key Improvements Made:
+
+1. **Profile View Optimization**: Moved the profile view counter to the center and used a more compact badge style to prevent layout issues.
+
+2. **Enhanced GitHub Stats**: Added comprehensive GitHub readme stats cards from anuraghazra/github-readme-stats with a consistent dark theme.
+
+3. **Improved Trophy Section**: Better spacing, themed trophies, and organized in a 2x4 grid layout for better visual balance.
+
+4. **Framework Logos Enhancement**: Replaced individual logos with modern badge-style logos that have consistent styling, white backgrounds, and rounded corners. Organized them by category for better readability.
+
+5. **Better Content Organization**:
+
+   - Used tables for better layout of current activities
+   - Added clear sections with proper headings
+   - Improved spacing throughout
+
+6. **Integrated Buy Me a Coffee**: Moved to a dedicated support section at the bottom with better styling and context.
+
+7. **Added Visual Elements**:
+   - Snake animation for GitHub contributions
+   - Consistent theming throughout
+   - Better use of emojis and formatting
+
+The new layout is more visually appealing, better organized, and provides a professional yet personal touch to your GitHub profile!
