@@ -67,9 +67,9 @@ _Stay updated with the latest dev news and articles_
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/morfestboy)
-[![Dev.to](https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morfestboy@gmail.com)
+[![Facebook](https://img.shields.io/badge/_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/morfestboy)
+[![Dev.to](https://img.shields.io/badge/_Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/morfestboy)
+[![Email](https://img.shields.io/badge/_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morfestboy@gmail.com)
 
 </div>
 
