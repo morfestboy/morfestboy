@@ -152,7 +152,7 @@ _Stay updated with the latest dev news and articles_
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-delta-vert-64.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=false&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title=Wongsakorn's%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats-delta-vert-64.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title=Wongsakorn's%20GitHub%20Stats"/>
 </div>
 
 <br>
