@@ -144,7 +144,7 @@ _Stay updated with the latest dev news and articles_
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-delta-vert-64.vercel.app/api/top-langs?username=morfestboy&layout=compact&langs_count=8&theme=dark&hide_title=true" alt="morfestboy" />
+  <img src="https://github-readme-stats-delta-vert-64.vercel.app/api/top-langs?username=morfestboy&layout=compact&langs_count=8&theme=dark&hide_title=true&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12" alt="morfestboy" />
 </div>
 
 <div align="center">
