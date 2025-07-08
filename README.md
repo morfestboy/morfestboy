@@ -144,15 +144,14 @@ _Stay updated with the latest dev news and articles_
 ## 📊 GitHub Activity
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats-delta-vert-64.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title="/>
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morfestboy&theme=dark&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakLabel=ffffff" alt="morfestboy" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=morfestboy&no-frame=true&no-bg=false&margin-w=4&margin-h=4&row=2&column=4&theme=gruvbox" alt="morfestboy" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-delta-vert-64.vercel.app/api?username=morfestboy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12&custom_title="/>
 </div>
 
 <br>
